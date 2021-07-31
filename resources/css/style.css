@@ -90,7 +90,6 @@ header .mobile {
   display: none;
 }
 
-
 @media only screen and (max-width: 895px) {
   nav li:last-child {
     display: block;
@@ -218,20 +217,6 @@ header .mobile {
 }
 
 @media only screen and (max-width: 600px) {
-  #sign-up-section {
-    height: 20rem;
-  }
-
-  #sign-up-cta h1 {
-    font-size: 2.25rem;
-  }
-
-  #sign-up-cta h2 {
-    font-size: 2rem;
-  }
-}
-
-@media only screen and (max-width: 450px) {
   #sign-up-section {
     height: 20rem;
   }
