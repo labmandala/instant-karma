@@ -53,6 +53,7 @@ header .content {
 
 header .logo {
   flex: 1;
+  font-weight: bold;
 }
 
 header nav ul {
