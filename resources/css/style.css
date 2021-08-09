@@ -57,6 +57,17 @@ header .logo {
   font-weight: bold;
 }
 
+header a {
+  color: #4a4a4a;
+  text-decoration: none !important;
+}
+
+header a:hover {
+  color:#6f8125; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
+
 header nav ul {
   display: flex;
 }
