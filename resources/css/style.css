@@ -20,6 +20,10 @@ html {
   color: white;
 }
 
+.banner .button:hover {
+  background-color: #6f8125;
+}
+
 .image-container {
   overflow: hidden;
 }
@@ -59,13 +63,13 @@ header .logo {
 
 header a {
   color: #4a4a4a;
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 header a:hover {
-  color:#6f8125; 
-  text-decoration:none; 
-  cursor:pointer;  
+  color: #6f8125; 
+  text-decoration: none; 
+  cursor: pointer;  
 }
 
 header nav ul {
